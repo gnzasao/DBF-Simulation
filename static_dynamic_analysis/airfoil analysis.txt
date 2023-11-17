@@ -1,0 +1,13 @@
+airfoils
+clark y
+naca 2414
+sd 7062
+
+
+
+gostota = 1.2 kg m-3
+v = 30 m/s
+dinamična viskoznost = 1.81 * 10-5 kg m-1s-1
+prečni prerez = 0.5 m^2
+
+Reynoldsovo število (iz teh podatkov): 100 000
